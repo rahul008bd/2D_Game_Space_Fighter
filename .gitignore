@@ -1,0 +1,19 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Asset meta data should be tracked
+*.pidb.meta
+
+# Crash reports
+sysinfo.txt
+
+# Unity packages cache
+[Ll]ibrary/PackageCache/
+
+# Ignore all automatically generated burst files
+[Bb]urstCache/

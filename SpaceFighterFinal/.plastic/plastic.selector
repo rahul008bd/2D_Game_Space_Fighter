@@ -1,0 +1,4 @@
+repository "SpaceFighterFinal@yueran_cao@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
